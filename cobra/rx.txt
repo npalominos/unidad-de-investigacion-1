@@ -1,0 +1,1050 @@
+Formula
+cpd00868 + cpd00007  -> cpd00011 + cpd00426 
+cpd11482 + cpd00010  <=> cpd11493 + cpd16755 
+cpd00010 + cpd11480  <=> cpd11493 + cpd16756 
+cpd00010 + cpd15366  <=> cpd11493 + cpd16753 
+cpd00010 + cpd16859  <=> cpd11493 + cpd16758 
+cpd00010 + cpd15368  <=> cpd11493 + cpd16754 
+cpd00010 + cpd16856  <=> cpd11493 + cpd16777 
+cpd00010 + cpd16857  <=> cpd11493 + cpd16779 
+cpd00002 + cpd00001 + cpd00053 + cpd00041  -> cpd00067 + cpd00018 + cpd00012 + cpd00023 + cpd00132 
+cpd11482  -> cpd00001 + cpd11475 
+cpd11480  -> cpd00001 + cpd11469 
+cpd15366  -> cpd00001 + cpd15569 
+cpd16859  -> cpd00001 + cpd11467 
+cpd15368  -> cpd00001 + cpd15570 
+cpd11481  -> cpd00001 + cpd11477 
+cpd15369  -> cpd00001 + cpd15571 
+cpd15371  -> cpd00001 + cpd11572 
+cpd15370  -> cpd00001 + cpd15568 
+cpd11478  -> cpd00001 + cpd11465 
+cpd16856  -> cpd00001 + cpd11473 
+cpd16857  -> cpd00001 + cpd11552 
+cpd00269 + cpd00078  -> cpd01507 + cpd00036 
+cpd00067 + cpd00005 + cpd11487  <=> cpd00006 + cpd11482 
+cpd00067 + cpd00005 + cpd11489  <=> cpd00006 + cpd11480 
+cpd00067 + cpd00005 + cpd15373  -> cpd00006 + cpd15366 
+cpd00067 + cpd00005 + cpd11491  <=> cpd00006 + cpd16859 
+cpd00067 + cpd00005 + cpd15374  -> cpd00006 + cpd15368 
+cpd00067 + cpd00005 + cpd11485  <=> cpd00006 + cpd11481 
+cpd00067 + cpd00005 + cpd15375  -> cpd00006 + cpd15369 
+cpd00067 + cpd00005 + cpd15377  <=> cpd00006 + cpd15371 
+cpd00067 + cpd00005 + cpd15376  -> cpd00006 + cpd15370 
+cpd00067 + cpd00005 + cpd11488  <=> cpd00006 + cpd11478 
+cpd00067 + cpd00005 + cpd11486  <=> cpd00006 + cpd16856 
+cpd00067 + cpd00005 + cpd11490  <=> cpd00006 + cpd16857 
+cpd00067 + cpd11492 + cpd11470  -> cpd00011 + cpd11493 + cpd11487 
+cpd00067 + cpd11492 + cpd11474  -> cpd00011 + cpd11493 + cpd11489 
+cpd00067 + cpd11492 + cpd15416  -> cpd00011 + cpd11493 + cpd15373 
+cpd00067 + cpd11492 + cpd11468  -> cpd00011 + cpd11493 + cpd11491 
+cpd00067 + cpd11492 + cpd15415  -> cpd00011 + cpd11493 + cpd15374 
+cpd00067 + cpd11492 + cpd11466  -> cpd00011 + cpd11493 + cpd11485 
+cpd00067 + cpd11492 + cpd15294  -> cpd00011 + cpd11493 + cpd15375 
+cpd00067 + cpd11492 + cpd15277  -> cpd00011 + cpd11493 + cpd15377 
+cpd00067 + cpd11492 + cpd15239  -> cpd00011 + cpd11493 + cpd15376 
+cpd00067 + cpd11492 + cpd11464  -> cpd00011 + cpd11493 + cpd11486 
+cpd00067 + cpd11492 + cpd11472  -> cpd00011 + cpd11493 + cpd11490 
+cpd00010 + cpd01507  -> cpd00078 + cpd00022 
+cpd00067 + cpd00269  <=> cpd00067 + cpd00269 
+cpd00067 + cpd00197  <=> cpd00067 + cpd00197 
+cpd00197  <=> cpd00197 
+cpd00002 + cpd00010 + cpd00604  -> cpd00192 + cpd00018 + cpd00012 
+cpd00067 + cpd00938  -> cpd00011 + cpd02255 
+cpd00001 + cpd03607  -> cpd03608 + cpd00009 
+cpd00001 + cpd02522 + cpd00003  -> 2 cpd00067 + cpd00705 + cpd00004 
+cpd00281 + cpd00024  <=> cpd00023 + cpd00199 
+cpd00067 + cpd00281  -> cpd00067 + cpd00281 
+2 cpd00022  <=> cpd00010 + cpd00279 
+cpd00067 + cpd03919 + cpd00038  -> cpd00012 + cpd03920 
+cpd00002 + cpd00022 + cpd00242  <=> cpd00067 + cpd00008 + cpd00009 + cpd00070 
+cpd00002 + cpd00477  -> cpd00008 + cpd02552 
+cpd00022 + cpd00023  -> cpd00067 + cpd00010 + cpd00477 
+cpd00067 + cpd00094 + cpd00020  -> cpd00011 + cpd00498 
+cpd00067 + 2 cpd00020  -> cpd00011 + cpd00668 
+cpd00120 + cpd00015  <=> cpd00650 + cpd00982 
+cpd00015 + cpd03124  <=> cpd00982 + cpd03125 
+cpd00015 + cpd01335  <=> cpd00982 + cpd03130 
+cpd00015 + cpd03128  <=> cpd00982 + cpd03129 
+cpd00015 + cpd01260  <=> cpd00982 + cpd02060 
+cpd00015 + cpd01695  <=> cpd00982 + cpd03127 
+cpd00015 + cpd00134  <=> cpd00982 + cpd03126 
+cpd11493 + cpd00022  <=> cpd00010 + cpd11494 
+cpd00001 + cpd00342  -> cpd00029 + cpd00064 
+cpd00331  <=> cpd00331 
+cpd00137  <=> cpd00260 
+cpd00137  <=> cpd00001 + cpd00331 
+cpd00001 + cpd00331  <=> cpd00260 
+cpd00024 + cpd00342  <=> cpd00023 + cpd00918 
+cpd00002 + cpd00010 + cpd00141  -> cpd00018 + cpd00012 + cpd00086 
+cpd00002 + cpd00010 + cpd00029  <=> cpd00022 + cpd00018 + cpd00012 
+cpd00067 + cpd00029  -> cpd00067 + cpd00029 
+cpd00067 + cpd00001 + cpd00182  -> cpd00246 + cpd00013 
+cpd08210  -> cpd00067 + cpd00020 + cpd00443 
+cpd00002 + cpd03917 + cpd02039  -> cpd00067 + cpd00008 + cpd00009 + cpd03918 
+cpd00002 + cpd03917 + cpd02547  -> cpd00067 + cpd00008 + cpd00009 + cpd03919 
+4 cpd00002 + 4 cpd00001 + cpd03916 + 4 cpd00053  -> 4 cpd00067 + 4 cpd00008 + 4 cpd00009 + 4 cpd00023 + cpd03917 
+cpd00002 + cpd00018  <=> 2 cpd00008 
+cpd00002  <=> cpd00012 + cpd00446 
+cpd00002 + cpd03918  -> cpd00067 + cpd00008 + cpd03919 
+cpd03920 + cpd03423  -> cpd00067 + cpd00166 + cpd00126 
+cpd00128 + cpd00103  -> cpd00018 + cpd00012 
+cpd00012 + cpd02851  <=> cpd00103 + cpd00012 
+cpd02375  --> cpd00018 + cpd00106 
+cpd02921  <=> cpd02851 + cpd00106 
+cpd00038 + cpd00041 + cpd00114  -> 2 cpd00067 + cpd00009 + cpd02375 + cpd00031 
+cpd11468 + cpd15325  -> cpd11493 + cpd15521 
+cpd15277 + cpd15327  -> cpd11493 + cpd15524 
+cpd15239 + cpd15326  -> cpd11493 + cpd15525 
+cpd15329 + cpd11573  -> cpd11493 + cpd15526 
+cpd15328 + cpd11825  -> cpd11493 + cpd15527 
+cpd00006 + cpd00009 + cpd00918  <=> cpd00067 + cpd00005 + cpd02552 
+cpd02851 + cpd00201  <=> cpd02884 + cpd00087 
+cpd00011 + cpd02140  <=> cpd00067 + cpd02893 
+cpd00010 + cpd00003 + cpd00024  -> cpd00011 + cpd00078 + cpd00004 
+cpd00067 + cpd00024 + cpd00213  <=> cpd00011 + cpd00860 
+cpd00010 + cpd00860  <=> cpd00078 + cpd00449 
+cpd00067 + cpd00024  <=> cpd00067 + cpd00024 
+cpd00002 + 2 cpd00117  <=> cpd00067 + cpd00008 + cpd00009 + cpd00731 
+cpd00035  <=> cpd00117 
+cpd00002 + cpd00035 + cpd11906  -> cpd00018 + cpd00012 + cpd11770 
+cpd00067 + cpd00004 + cpd00071  -> cpd00003 + cpd00363 
+cpd00363 + cpd00097  -> cpd00071 + cpd00986 
+cpd00001 + cpd00003 + cpd00071  -> 2 cpd00067 + cpd00004 + cpd00029 
+cpd00001 + cpd00003 + cpd00071  <=> 2 cpd00067 + cpd00004 + cpd00029 
+cpd00001 + cpd00003 + cpd02140  -> 3 cpd00067 + cpd00004 + cpd02775 + 2 cpd00047 
+cpd00001 + cpd00018  -> cpd00128 + cpd00101 
+cpd00103 + cpd00093  -> cpd00012 + cpd02642 
+cpd00053 + cpd00216  -> cpd00067 + cpd00023 + cpd00020 + cpd00093 
+cpd00001 + cpd00924  -> 2 cpd00067 + 2 cpd00008 
+cpd00001 + cpd00729  -> cpd00339 + cpd00013 
+cpd00067 + cpd00005 + cpd00931  -> cpd00006 + cpd02720 
+cpd00193 + cpd11421  -> 2 cpd00067 + cpd00018 + cpd00081 + cpd11420 
+cpd00024 + cpd00339  <=> cpd00023 + cpd02089 
+cpd00064 + cpd00051  <=> cpd00051 + cpd00064 
+cpd02152  -> cpd00106 + cpd00051 
+cpd00002 + cpd00041 + cpd00274  -> cpd00067 + cpd00018 + cpd00012 + cpd02152 
+cpd00002 + cpd00051 + cpd11907  -> cpd00018 + cpd00012 + cpd12036 
+cpd00002 + cpd00001 + cpd00051  -> cpd00067 + cpd00008 + cpd00009 + cpd00051 
+cpd00051  <=> cpd00051 
+cpd00067 + cpd00005 + cpd01977  -> cpd00006 + cpd00009 + cpd00346 
+cpd00041 + cpd00146  -> cpd00067 + cpd00009 + cpd00343 
+cpd00002 + cpd00041  -> cpd00008 + cpd01977 
+cpd00007 + cpd00001 + cpd00041  -> cpd00013 + cpd00025 + cpd00032 
+cpd00007 + cpd00041  -> cpd00067 + cpd00025 + cpd03470 
+cpd00041  -> cpd00013 + cpd00106 
+cpd00024 + cpd00041  <=> cpd00023 + cpd00032 
+cpd00002 + cpd00041 + cpd11909  -> cpd00018 + cpd00012 + cpd12226 
+cpd00002 + cpd00001 + cpd00041  -> cpd00067 + cpd00008 + cpd00009 + cpd00041 
+2 cpd00067 + cpd00041  -> 2 cpd00067 + cpd00041 
+cpd00078 + cpd00051  -> cpd00067 + cpd00010 + cpd02103 
+cpd00002 + cpd00103  <=> cpd00012 + cpd01775 
+cpd00008 + 4 cpd00067 + cpd00009  <=> 3 cpd00067 + cpd00002 + cpd00001 
+cpd00003 + cpd00797  <=> cpd00067 + cpd00004 + cpd00142 
+cpd00067 + cpd00153  <=> cpd00067 + cpd00153 
+cpd00001 + cpd00270  -> cpd00022 + cpd16507 
+cpd00002 + cpd00010 + cpd00881  -> cpd00018 + cpd00012 + cpd00270 
+2 cpd00025  -> cpd00007 + 2 cpd00001 
+2 cpd00002 + cpd00001 + cpd00242 + cpd00053  -> 2 cpd00067 + 2 cpd00008 + cpd00009 + cpd00023 + cpd00146 
+cpd00002 + cpd08287  -> cpd00067 + cpd00008 + cpd08288 
+2 cpd00017 + cpd15532  -> 2 cpd00067 + 2 cpd00019 + cpd15433 
+2 cpd00017 + cpd15539  -> 2 cpd00067 + 2 cpd00019 + cpd15435 
+2 cpd00017 + cpd15534  -> 2 cpd00067 + 2 cpd00019 + cpd15434 
+2 cpd00017 + cpd15541  -> 2 cpd00067 + 2 cpd00019 + cpd15436 
+cpd00002 + cpd00001 + cpd00098  -> cpd00067 + cpd00008 + cpd00009 + cpd00098 
+cpd00001 + cpd00681  -> cpd00067 + cpd00098 + cpd00048 
+cpd00681  <=> cpd00681 
+cpd00002 + cpd00001 + cpd00681  -> cpd00067 + cpd00008 + cpd00009 + cpd00681 
+cpd00216  -> cpd00219 
+cpd00932  -> cpd00009 + cpd00216 
+cpd00067 + cpd00137  <=> cpd00067 + cpd00137 
+cpd00137  <=> cpd00137 
+2 cpd15535  <=> cpd15425 + cpd00100 
+2 cpd15538  <=> cpd00100 + cpd15428 
+2 cpd15539  <=> cpd00100 + cpd15429 
+2 cpd15540  <=> cpd00100 + cpd15430 
+2 cpd15541  <=> cpd00100 + cpd15431 
+cpd00001 + cpd00003 + cpd01733  -> 2 cpd00067 + cpd00004 + cpd01059 
+cpd00149  -> cpd00149 
+cpd00002 + cpd00001 + cpd00149 + cpd03913  -> 2 cpd00067 + cpd00008 + cpd00009 + cpd03914 
+cpd00001 + cpd00192  -> cpd00022 + cpd00484 
+2 cpd00067 + cpd00007 + cpd02083  -> 2 cpd00011 + 2 cpd00001 + cpd00791 
+2 cpd00017 + cpd02083  -> 2 cpd00011 + cpd00791 + 2 cpd03091 + 2 cpd00060 
+cpd00001 + cpd00022 + cpd00032  -> cpd00067 + cpd00010 + cpd00137 
+cpd00067 + cpd00001 + cpd00307  -> cpd00013 + cpd00092 
+cpd00002 + cpd00001 + cpd00053 + cpd00062  -> 2 cpd00067 + cpd00008 + cpd00009 + cpd00023 + cpd00052 
+2 cpd00067 + 2 cpd00109 + cpd15561  -> 2 cpd00067 + 2 cpd00110 + cpd15560 
+0.5 cpd00007 + 2 cpd00110  -> cpd00001 + 2 cpd00109 
+cpd00067 + cpd00002 + cpd03915  -> cpd03916 + cpd00421 
+cpd00722 + cpd00239  -> cpd00067 + cpd00029 + cpd00084 
+cpd00722 + cpd00268  -> cpd00029 + cpd01608 
+cpd00001 + cpd00424  <=> cpd00094 + cpd00013 + cpd00084 
+cpd00002 + cpd00084 + cpd11910  -> cpd00018 + cpd00012 + cpd12255 
+cpd00002 + cpd00001 + cpd00084  -> cpd00067 + cpd00008 + cpd00009 + cpd00084 
+2 cpd00067 + 0.5 cpd00007 + cpd15561  -> 2 cpd00067 + cpd00001 + cpd15560 
+4 cpd00067 + 0.5 cpd00007 + cpd15561  -> 4 cpd00067 + cpd00001 + cpd15560 
+cpd00002 + cpd00046  <=> cpd00008 + cpd00096 
+cpd00002 + cpd00206  <=> cpd00008 + cpd00533 
+cpd00001 + cpd00015 + cpd00117  -> cpd00020 + cpd00982 + cpd00013 
+2 cpd00067 + cpd00024 + cpd02095  <=> cpd00023 + cpd00346 
+cpd00067 + cpd00001 + cpd00438  -> cpd00013 + cpd03279 
+cpd00002 + cpd00294  <=> cpd00008 + cpd00177 
+cpd00067 + cpd00516  -> cpd00011 + cpd00039 
+cpd00504  <=> cpd00516 
+cpd00067 + cpd15521 + cpd00052  -> cpd00012 + cpd15417 
+cpd00067 + cpd15524 + cpd00052  -> cpd00012 + cpd15419 
+cpd00067 + cpd15525 + cpd00052  -> cpd00012 + cpd15418 
+cpd00067 + cpd15526 + cpd00052  -> cpd00012 + cpd15421 
+cpd00067 + cpd15527 + cpd00052  -> cpd00012 + cpd15420 
+cpd00171  -> cpd00067 + cpd00047 + cpd11225 
+cpd00067 + cpd00001 + cpd00356  -> cpd00013 + cpd00358 
+cpd00067 + cpd00001 + cpd00052  -> cpd00013 + cpd00062 
+cpd00001 + cpd00236 + cpd00061  -> cpd00009 + cpd02857 
+cpd00002 + cpd00296  <=> cpd00008 + cpd00295 
+cpd02498  -> cpd00001 + cpd00123 
+cpd02535  -> cpd00001 + cpd00508 
+cpd00067 + cpd00005 + cpd02120  -> cpd00006 + cpd02465 
+cpd00020 + cpd00346  -> cpd00067 + 2 cpd00001 + cpd02120 
+cpd00067 + cpd00005 + cpd00330  <=> cpd00006 + cpd00087 
+cpd00002 + cpd00023 + cpd00683  -> cpd00067 + cpd00008 + cpd00009 + cpd00330 
+cpd02961  -> cpd00067 + cpd00954 + cpd00229 
+cpd00007 + cpd00282  <=> cpd00025 + cpd00247 
+cpd00001 + cpd00282  <=> cpd00067 + cpd00343 
+cpd00010 + 2 cpd00001 + cpd16740  -> cpd00067 + cpd00022 + cpd09844 + cpd11640 
+cpd00067 + cpd00001 + cpd00957  -> cpd00013 + cpd00931 
+cpd00067 + cpd00004 + cpd00231  -> cpd00003 + cpd00233 
+cpd00699  <=> cpd00001 + cpd01716 
+cpd02857  -> cpd00009 + cpd00699 
+cpd01716  -> cpd00001 + cpd00197 
+cpd00024 + cpd00549  <=> cpd02074 + cpd00186 
+cpd00020 + cpd00549  <=> cpd00117 + cpd02074 
+cpd00202 + cpd00113  -> cpd00012 + cpd00283 
+cpd00001 + cpd03521  -> cpd00009 + cpd02961 
+cpd00001 + cpd02978  -> cpd00067 + cpd00012 + cpd03521 
+cpd00002 + cpd00655  -> cpd00067 + cpd00008 + cpd00010 
+cpd00010 + cpd16744  -> cpd16755 + cpd16752 
+cpd00010 + cpd16745  -> cpd16756 + cpd16752 
+cpd00010 + cpd16746  -> cpd16753 + cpd16752 
+cpd00010 + cpd16747  -> cpd16758 + cpd16752 
+cpd00010 + cpd16748  -> cpd16754 + cpd16752 
+cpd00010 + cpd16749  -> cpd16777 + cpd16752 
+cpd00010 + cpd16750  -> cpd16779 + cpd16752 
+cpd00067 + cpd00005 + cpd00712  -> cpd00006 + cpd00408 
+cpd00002 + cpd00298  <=> cpd00008 + cpd00297 
+cpd00006 + cpd00337  <=> cpd00067 + cpd00005 + cpd00092 
+cpd00001 + cpd00358  -> cpd00067 + cpd00012 + cpd00299 
+cpd00067 + cpd00005 + cpd08289  -> cpd00006 + cpd08286 
+cpd00067 + cpd00020 + cpd00102  -> cpd00011 + cpd08289 
+cpd00067 + cpd00221  <=> cpd00067 + cpd00221 
+cpd00001 + cpd00003 + cpd00236  <=> 2 cpd00067 + cpd00004 + cpd02147 
+cpd00842  <=> cpd00001 + cpd00650 
+cpd03122  <=> cpd00001 + cpd03125 
+cpd03120  <=> cpd00001 + cpd03130 
+cpd03118  <=> cpd00001 + cpd03129 
+cpd03116  <=> cpd00001 + cpd02060 
+cpd03115  <=> cpd00001 + cpd03127 
+cpd03113  <=> cpd00001 + cpd03126 
+cpd02711  -> cpd00020 + cpd00102 
+cpd00284  -> cpd00001 + cpd02711 
+cpd00482  <=> cpd00001 + cpd00061 
+cpd00002 + cpd00001 + cpd11579  -> cpd00067 + cpd00008 + cpd00009 + cpd11579 
+cpd11579  <=> cpd11579 
+cpd00002 + cpd00067 + cpd00010 + cpd01107  -> cpd00067 + cpd00018 + cpd00012 + cpd03128 
+cpd00002 + cpd00067 + cpd00010 + cpd01741  -> cpd00067 + cpd00018 + cpd00012 + cpd01260 
+cpd00002 + cpd00067 + cpd00010 + cpd03847  -> cpd00067 + cpd00018 + cpd00012 + cpd01695 
+cpd00002 + cpd00067 + cpd00010 + cpd00214  -> cpd00067 + cpd00018 + cpd00012 + cpd00134 
+cpd00002 + cpd00067 + cpd00010 + cpd01113  -> cpd00067 + cpd00018 + cpd00012 + cpd03124 
+cpd00002 + cpd00067 + cpd00010 + cpd03846  -> cpd00067 + cpd00018 + cpd00012 + cpd01335 
+cpd00007 + 2 cpd00110 + 2 cpd00055  -> 4 cpd00067 + 2 cpd00047 + 2 cpd00410 
+cpd00290  <=> cpd00102 + cpd00095 
+cpd00001 + cpd00290  -> cpd00009 + cpd00072 
+cpd00021 + cpd01476  -> 2 cpd00067 + cpd00028 
+cpd00001 + cpd00321  -> cpd00022 + cpd00561 
+cpd00003 + cpd00047  -> cpd00011 + cpd00004 
+cpd00007 + cpd01270 + cpd03048  -> cpd00067 + cpd00001 + cpd00081 + cpd00229 + cpd00050 
+cpd00007 + cpd01270 + cpd08023  -> cpd00067 + cpd00001 + cpd00081 + cpd00055 + cpd00050 
+cpd00007 + cpd11579 + cpd01270  -> cpd00067 + cpd00001 + cpd00071 + cpd00081 + cpd00050 
+cpd00007 + cpd01270 + cpd16742  -> cpd00067 + cpd00001 + cpd00081 + cpd00050 + cpd15621 
+cpd00007 + cpd01270 + cpd00210  -> cpd00067 + cpd00001 + cpd00081 + cpd00050 + cpd04122 
+cpd00002 + cpd00001 + cpd00021  -> cpd00067 + cpd00008 + cpd00009 + cpd00021 
+cpd00002 + cpd00010 + cpd01059  -> cpd00018 + cpd00012 + cpd00321 
+cpd00201 + cpd12105  -> cpd00067 + cpd00087 + cpd12285 
+cpd00067 + cpd00002 + cpd00050  -> cpd00012 + cpd00015 
+cpd00067 + cpd00005 + cpd00050  -> cpd00006 + cpd01270 
+cpd00443 + cpd02920  -> cpd00012 + cpd00683 
+2 cpd00067 + cpd00001 + cpd00344  -> cpd00013 + cpd00770 
+cpd00002 + cpd00802  <=> cpd00067 + cpd00008 + cpd00290 
+cpd00061 + cpd00082  -> cpd00020 + cpd00802 
+cpd00001 + cpd00201  -> cpd00067 + cpd00087 + cpd00047 
+cpd00001 + cpd00106  <=> cpd00130 
+cpd00001 + cpd00780  -> cpd00067 + cpd00106 + cpd00142 
+2 cpd00067 + cpd00106  -> 2 cpd00067 + cpd00106 
+cpd00022 + cpd03671  -> cpd00067 + cpd00010 + cpd02611 
+cpd02345  -> cpd00338 
+cpd11468 + cpd00080  -> cpd11493 + cpd15325 
+cpd15277 + cpd00080  -> cpd11493 + cpd15327 
+cpd15239 + cpd00080  -> cpd11493 + cpd15326 
+cpd11573 + cpd00080  -> cpd11493 + cpd15329 
+cpd11825 + cpd00080  -> cpd11493 + cpd15328 
+cpd00015 + cpd00080  -> cpd00982 + cpd00095 
+cpd00006 + cpd00080  <=> cpd00067 + cpd00005 + cpd00095 
+cpd00067 + cpd00005 + cpd02097  -> cpd00006 + cpd00009 + cpd00858 
+cpd00006 + cpd00863  -> cpd00067 + cpd00005 + cpd00911 
+cpd00006 + cpd00079  -> cpd00067 + cpd00005 + cpd00911 
+cpd00079  <=> cpd00863 
+cpd00007 + cpd01020  -> 2 cpd00067 + cpd16739 
+cpd00015 + cpd00222  <=> cpd00480 + cpd00982 
+cpd00067 + cpd00062 + cpd00089  <=> cpd00012 + cpd00026 
+cpd00009 + cpd00003 + cpd00102  <=> cpd00067 + cpd00004 + cpd00203 
+cpd00201 + cpd02394  <=> cpd00067 + cpd00087 + cpd02678 
+cpd00002 + cpd00047 + cpd02394  -> cpd00067 + cpd00008 + cpd00009 + cpd02678 
+cpd00053 + cpd00072  -> cpd00023 + cpd00288 
+cpd00087 + cpd00054  <=> cpd00001 + cpd00033 + cpd00125 
+cpd00002 + cpd00126  <=> cpd00008 + cpd00031 
+cpd15560 + cpd00027 + cpd00001  -> cpd00067 + cpd15561 + cpd00222 
+cpd00067 + cpd00222  <=> cpd00067 + cpd00222 
+cpd00010 + cpd03672  -> cpd00449 + cpd00413 
+cpd00002 + cpd00001 + cpd00027  -> cpd00067 + cpd00008 + cpd00009 + cpd00027 
+cpd00027  <=> cpd00027 
+cpd00002 + cpd00023 + cpd00013  -> cpd00067 + cpd00008 + cpd00009 + cpd00053 
+cpd00002 + cpd00001 + cpd00053 + cpd12828  -> cpd00067 + cpd00008 + cpd00009 + cpd00023 + cpd12060 
+cpd00002 + cpd00053 + cpd11911  -> cpd00018 + cpd00012 + cpd12060 
+cpd00002 + cpd00023  -> cpd00008 + cpd02097 
+cpd00002 + cpd00023 + cpd00084  -> cpd00067 + cpd00008 + cpd00009 + cpd00506 
+cpd00067 + cpd00023  -> cpd00011 + cpd00281 
+cpd00001 + cpd00053  -> cpd00023 + cpd00013 
+cpd00001 + cpd00053 + cpd00103  -> cpd00012 + cpd00023 + cpd01982 
+cpd00186  <=> cpd00023 
+cpd00067 + cpd00005 + cpd00024 + cpd00053  -> cpd00006 + 2 cpd00023 
+cpd00067 + cpd00015 + cpd00413  -> cpd00011 + cpd00650 + cpd00982 
+cpd00067 + cpd00005 + cpd12227  -> cpd00006 + cpd02345 + cpd11912 
+cpd00002 + cpd00023 + cpd11912  -> cpd00018 + cpd00012 + cpd12227 
+cpd00002 + cpd00001 + cpd00023  -> cpd00067 + cpd00008 + cpd00009 + cpd00023 
+cpd00023 + cpd00971  -> cpd00023 + cpd00971 
+cpd00023  <=> cpd00023 
+cpd00067 + 2 cpd00040  -> cpd00011 + cpd00145 
+cpd00448  <=> cpd00448 
+cpd00002 + cpd00001 + cpd00540  -> cpd00067 + cpd00008 + cpd00009 + cpd00540 
+cpd00002 + cpd00223  -> cpd00067 + cpd00008 + cpd00169 
+cpd00003 + cpd00087 + cpd00033  -> cpd00011 + cpd00004 + cpd00013 + cpd00125 
+cpd00067 + cpd00139  <=> cpd00067 + cpd00139 
+cpd00011 + cpd00004 + cpd00013 + cpd00125  -> cpd00003 + cpd00087 + cpd00033 
+cpd00007 + cpd00139  -> cpd00025 + cpd00040 
+cpd00100  <=> cpd00100 
+cpd00100  <=> cpd00100 
+cpd00067 + cpd00004 + cpd00145  <=> cpd00003 + cpd00223 
+cpd00002 + cpd00100  -> cpd00067 + cpd00008 + cpd00080 
+cpd00002 + cpd00033 + cpd11913  -> cpd00018 + cpd00012 + cpd12100 
+cpd00002 + cpd00001 + cpd00033  <=> cpd00067 + cpd00008 + cpd00009 + cpd00033 
+cpd00033  <=> cpd00033 
+cpd00002 + cpd00001 + cpd00053 + cpd00497  -> 2 cpd00067 + cpd00018 + cpd00012 + cpd00023 + cpd00126 
+cpd00006 + cpd00284  -> cpd00005 + cpd00011 + cpd00171 
+cpd00002 + cpd00222  -> cpd00067 + cpd00008 + cpd00284 
+cpd00113 + cpd00283  -> cpd00012 + cpd00350 
+cpd00067 + cpd00005 + cpd00111  -> cpd00006 + 2 cpd00042 
+cpd00025 + 2 cpd00042  <=> 2 cpd00001 + cpd00111 
+cpd00002 + cpd00033 + cpd00506  -> cpd00067 + cpd00008 + cpd00009 + cpd00042 
+cpd00001 + cpd00038  -> cpd00067 + cpd00047 + cpd02978 
+3 cpd00001 + cpd00038  -> 2 cpd00067 + cpd00012 + cpd00047 + cpd00957 
+cpd00001 + cpd02740  <=> cpd00067 + cpd00009 + cpd00905 
+cpd00002 + cpd00038  -> cpd00067 + cpd00018 + cpd02740 
+cpd00067 + cpd00001 + cpd00207  -> cpd00013 + cpd00309 
+cpd00103 + cpd00207  -> cpd00012 + cpd00126 
+cpd00011 + cpd00001  <=> cpd00242 
+cpd00003 + cpd00842  -> cpd00067 + cpd00004 + cpd00279 
+cpd00003 + cpd03122  -> cpd00067 + cpd00004 + cpd03123 
+cpd00003 + cpd03120  -> cpd00067 + cpd00004 + cpd03121 
+cpd00003 + cpd03118  -> cpd00067 + cpd00004 + cpd03119 
+cpd00003 + cpd03116  -> cpd00067 + cpd00004 + cpd03117 
+cpd00003 + cpd03115  -> cpd00067 + cpd00004 + cpd12689 
+cpd00003 + cpd03113  -> cpd00067 + cpd00004 + cpd03114 
+cpd09844  -> cpd01507 + cpd11640 
+cpd00001 + cpd00028 + cpd00350  -> cpd00012 + cpd11313 
+cpd00002 + cpd00027  -> cpd00067 + cpd00008 + cpd00079 
+cpd00007 + cpd00426  -> cpd00067 + cpd00763 
+cpd00003 + cpd00876  -> cpd00067 + cpd00004 + cpd19044 
+cpd00119  -> cpd00013 + cpd00581 
+cpd00001 + 2 cpd00003 + cpd00641  -> 3 cpd00067 + 2 cpd00004 + cpd00119 
+cpd00001 + cpd00807  -> cpd00009 + cpd00641 
+cpd00002 + cpd00119 + cpd11914  -> cpd00018 + cpd00012 + cpd12228 
+cpd00002 + cpd00001 + cpd00119  -> cpd00067 + cpd00008 + cpd00009 + cpd00119 
+cpd00119  <=> cpd00119 
+cpd00001 + 4 cpd00689  -> 4 cpd00013 + cpd00755 
+cpd00292  -> cpd00022 + cpd00142 
+cpd00002 + cpd00939  -> cpd00067 + cpd00008 + cpd02775 
+cpd00002 + cpd00954  -> cpd00067 + cpd00018 + cpd02920 
+cpd00145  <=> cpd00145 
+cpd00003 + cpd00227  <=> cpd00067 + cpd00004 + cpd00346 
+cpd00022 + cpd00227  <=> cpd00010 + cpd00790 
+cpd00002 + cpd00227  -> cpd00067 + cpd00008 + cpd00809 
+cpd00023 + cpd00930  <=> cpd00024 + cpd00807 
+cpd00001 + cpd00003 + cpd00226  -> cpd00067 + cpd00004 + cpd00309 
+cpd00103 + cpd00226  -> cpd00012 + cpd00114 
+cpd00006 + cpd00260  <=> cpd00005 + cpd00011 + cpd00024 
+cpd00067 + cpd00260  <=> cpd00067 + cpd00260 
+cpd00260  <=> cpd00260 
+cpd00260  -> cpd00036 + cpd00040 
+cpd00053 + cpd02991  -> cpd00067 + cpd00023 + cpd02851 + cpd02843 
+cpd02843  -> cpd00001 + cpd00930 
+cpd00067 + cpd00956  -> cpd00011 + cpd00001 + cpd02210 
+cpd00024 + cpd00322  <=> cpd00023 + cpd00508 
+cpd00002 + cpd00322 + cpd11915  -> cpd00018 + cpd00012 + cpd12256 
+cpd00002 + cpd00001 + cpd00322  -> cpd00067 + cpd00008 + cpd00009 + cpd00322 
+cpd00001 + cpd00114  <=> cpd02884 
+cpd00001 + cpd00003 + cpd00114  <=> cpd00067 + cpd00004 + cpd00497 
+cpd00001 + cpd00246  -> cpd00105 + cpd00226 
+cpd00113  <=> cpd00202 
+cpd00067 + cpd00004 + cpd08615  -> cpd00001 + cpd00003 + cpd00113 
+cpd00003 + cpd02693  <=> cpd00067 + cpd00004 + cpd02605 
+cpd02693  <=> cpd00001 + cpd01710 
+cpd00001 + cpd01710  <=> cpd01646 
+cpd00001 + cpd00022 + cpd00123  -> cpd00067 + cpd00010 + cpd01646 
+cpd00002 + cpd00001 + cpd03048  -> cpd00067 + cpd00008 + cpd00009 + cpd03048 
+cpd03048  <=> cpd03048 
+cpd00001 + cpd02311  -> cpd00067 + cpd00344 
+cpd00006 + cpd02498  <=> cpd00067 + cpd00005 + cpd00668 
+cpd00067 + cpd00005 + cpd00498  <=> cpd00006 + cpd02535 
+cpd00067 + cpd11492 + cpd11494  -> cpd00011 + cpd11493 + cpd11488 
+cpd00067 + cpd11492 + cpd00022  -> cpd00011 + cpd00010 + cpd11488 
+cpd00010 + cpd00279  -> 2 cpd00022 
+cpd00010 + cpd03123  -> cpd00022 + cpd00120 
+cpd00010 + cpd03121  -> cpd00022 + cpd03124 
+cpd00010 + cpd03119  -> cpd00022 + cpd01335 
+cpd00010 + cpd03117  -> cpd00022 + cpd03128 
+cpd00010 + cpd12689  -> cpd00022 + cpd01260 
+cpd00010 + cpd03114  -> cpd00022 + cpd01695 
+cpd00003 + cpd00221  <=> cpd00067 + cpd00004 + cpd00020 
+cpd00024 + cpd00107  <=> cpd00023 + cpd00200 
+cpd00002 + cpd00107 + cpd11916  -> cpd00018 + cpd00012 + cpd12003 
+cpd00002 + cpd00001 + cpd00107  -> cpd00067 + cpd00008 + cpd00009 + cpd00107 
+cpd00323 + cpd00007  -> cpd00067 + cpd00025 + cpd00352 
+cpd00007 + cpd00039  -> cpd00067 + cpd00011 + cpd00001 + cpd00729 
+cpd00002 + cpd00039 + cpd11917  -> cpd00018 + cpd00012 + cpd01326 
+cpd00002 + cpd00001 + cpd00039  -> cpd00067 + cpd00008 + cpd00009 + cpd00039 
+cpd00039  <=> cpd00039 
+cpd00067 + cpd00159  <=> cpd00067 + cpd00159 
+cpd00763  -> cpd00780 
+cpd00067 + cpd11492  -> cpd00011 + cpd11494 
+cpd00001 + cpd00022 + cpd00040  -> cpd00067 + cpd00010 + cpd00130 
+2 cpd00067 + cpd00130  -> 2 cpd00067 + cpd00130 
+cpd01501  -> cpd00001 + cpd02597 
+cpd02799  <=> cpd00036 + cpd00020 
+cpd00001 + cpd00086 + cpd00032  -> cpd00067 + cpd00010 + cpd01501 
+cpd11493 + cpd00070  <=> cpd00010 + cpd11492 
+cpd00003 + cpd00130  <=> cpd00067 + cpd00004 + cpd00032 
+cpd15560 + cpd00130  -> cpd00032 + cpd15561 
+cpd00003 + cpd00130  -> cpd00011 + cpd00004 + cpd00020 
+cpd00067 + cpd08301  -> cpd00001 + cpd08615 
+cpd08288  -> cpd00046 + cpd08301 
+cpd00067 + cpd00052 + cpd08286  -> cpd00012 + cpd08287 
+cpd00239 + cpd00790  <=> cpd00067 + cpd00029 + cpd00135 
+cpd00002 + cpd00001 + cpd00060  -> cpd00012 + cpd00009 + cpd00017 
+cpd00001 + cpd00060  -> cpd00094 + cpd00013 + cpd00324 
+cpd00135 + cpd00345  <=> cpd00067 + cpd00087 + cpd00060 
+cpd00002 + cpd00060 + cpd11918  -> cpd00018 + cpd00012 + cpd12105 
+cpd00002 + cpd00001 + cpd00060  -> cpd00067 + cpd00008 + cpd00009 + cpd00060 
+cpd00001 + cpd02597  <=> cpd02799 
+cpd00010 + cpd00003 + cpd19044  -> cpd00011 + cpd00004 + cpd00086 
+cpd00001 + cpd00123 + cpd00125  -> cpd00087 + cpd00712 
+cpd00002 + cpd00001 + cpd08023  -> cpd00067 + cpd00008 + cpd00009 + cpd08023 
+cpd08023  <=> cpd08023 
+cpd00001 + cpd00347  <=> cpd00067 + cpd00201 
+cpd00006 + cpd00125  <=> cpd00005 + cpd00347 
+2 cpd00067 + cpd00005 + cpd00125  -> cpd00006 + cpd00345 
+cpd00135 + cpd02738  <=> cpd00060 + cpd02555 
+cpd00067 + cpd00856  -> cpd00938 
+4 cpd00067 + cpd00004 + cpd15560  -> 3 cpd00067 + cpd00003 + cpd15561 
+cpd00067 + cpd00004 + cpd15560  -> cpd00003 + cpd15561 
+cpd00002 + cpd00003  -> cpd00067 + cpd00006 + cpd00008 
+cpd00067 + cpd00005 + cpd15560  -> cpd00006 + cpd15561 
+cpd00002 + cpd00001 + cpd00053 + cpd00638  -> cpd00067 + cpd00018 + cpd00012 + cpd00003 + cpd00023 
+cpd00002 + cpd00001 + cpd00103 + cpd00218  -> cpd00008 + cpd00012 + cpd00009 + cpd00873 
+3 cpd00067 + 2 cpd00971  -> 3 cpd00067 + 2 cpd00971 
+2 cpd00067 + cpd00971  -> 2 cpd00067 + cpd00971 
+cpd00002 + cpd00031  <=> cpd00008 + cpd00038 
+cpd00002 + cpd00014  <=> cpd00008 + cpd00062 
+cpd00002 + cpd00096  <=> cpd00008 + cpd00052 
+cpd00002 + cpd00297  <=> cpd00008 + cpd00357 
+cpd00002 + cpd00295  <=> cpd00008 + cpd00241 
+cpd00002 + cpd00978  <=> cpd00008 + cpd00358 
+cpd00002 + cpd00533  <=> cpd00008 + cpd00356 
+cpd00002 + cpd00177  <=> cpd00008 + cpd00115 
+cpd00001 + cpd00770  -> 2 cpd00067 + cpd00023 + cpd00047 
+cpd00013  <=> cpd00013 
+cpd00067 + cpd00002 + cpd00873  <=> cpd00012 + cpd00638 
+cpd00873 + cpd01997  -> cpd00067 + cpd00218 + cpd02904 
+2 cpd00067 + cpd00103 + cpd02333  -> cpd00011 + cpd00012 + cpd00873 
+cpd00067 + cpd00075  <=> cpd00067 + cpd00075 
+cpd00001 + cpd00497  -> cpd00009 + cpd01217 
+cpd00001 + cpd00497  -> cpd00009 + cpd01217 
+cpd00001 + cpd00114  -> cpd00009 + cpd00246 
+cpd00001 + cpd00114  -> cpd00009 + cpd00246 
+cpd00001 + cpd00091  -> cpd00009 + cpd00249 
+cpd00001 + cpd00091  -> cpd00009 + cpd00249 
+cpd00001 + cpd00206  -> cpd00009 + cpd00654 
+cpd00001 + cpd00206  -> cpd00009 + cpd00654 
+cpd00001 + cpd00046  -> cpd00009 + cpd00367 
+cpd00001 + cpd00046  -> cpd00009 + cpd00367 
+cpd00001 + cpd00298  -> cpd00009 + cpd00184 
+cpd00001 + cpd00298  -> cpd00009 + cpd00184 
+cpd00001 + cpd00294  -> cpd00009 + cpd00438 
+cpd00001 + cpd00294  -> cpd00009 + cpd00438 
+cpd00001 + cpd00018  -> cpd00009 + cpd00182 
+cpd00001 + cpd00018  -> cpd00009 + cpd00182 
+cpd00001 + cpd00296  -> cpd00009 + cpd00277 
+cpd00001 + cpd00296  -> cpd00009 + cpd00277 
+cpd00001 + cpd00126  -> cpd00009 + cpd00311 
+cpd00001 + cpd00126  -> cpd00009 + cpd00311 
+5 cpd00067 + 3 cpd00004 + cpd00075  -> 2 cpd00001 + 3 cpd00003 + cpd00013 
+cpd00067 + cpd00032  -> cpd00011 + cpd00020 
+cpd00064 + cpd00146  <=> cpd00067 + cpd00009 + cpd00274 
+cpd00078 + cpd00142  -> cpd00036 + cpd00279 
+cpd00023 + cpd03606  <=> cpd03607 + cpd00024 
+cpd00010 + cpd00003 + cpd00200  <=> cpd00011 + cpd00004 + cpd01882 
+cpd00010 + cpd00003 + cpd00123  -> cpd00011 + cpd00004 + cpd00481 
+cpd00010 + cpd00003 + cpd00508  -> cpd00011 + cpd00004 + cpd00760 
+cpd00067 + cpd00810  -> cpd00011 + cpd00091 
+cpd00064  -> cpd00013 + cpd00129 
+cpd00023 + cpd00342  <=> cpd00477 + cpd00064 
+cpd00067 + cpd00064  -> cpd00011 + cpd00118 
+cpd00002 + cpd00001 + cpd00064  -> cpd00067 + cpd00008 + cpd00009 + cpd00064 
+cpd00012 + cpd00810  <=> cpd00103 + cpd00247 
+cpd00067 + cpd00213 + cpd00269  -> cpd00011 + cpd03672 
+cpd00001 + cpd02255  -> cpd00067 + cpd00269 
+cpd00001 + cpd00003 + cpd02089  <=> 2 cpd00067 + cpd00004 + cpd00379 
+cpd00002 + cpd00010 + cpd00430  <=> cpd00018 + cpd00012 + cpd00452 
+cpd00971 + cpd00430  <=> cpd00971 + cpd00430 
+cpd00430  <=> cpd00430 
+cpd00002 + cpd00408 + cpd00085  -> cpd00067 + cpd00018 + cpd00012 + cpd00644 
+cpd00286 + cpd02968  -> cpd00091 + cpd03494 
+cpd00002 + cpd00242 + cpd00020  -> cpd00067 + cpd00008 + cpd00009 + cpd00032 
+cpd00017 + cpd03834  -> cpd00067 + cpd00019 + cpd03839 
+cpd00017 + cpd03833  -> 3 cpd00067 + cpd00019 + cpd03834 
+cpd00017 + cpd01620  -> cpd00067 + cpd00019 + cpd03420 
+cpd00067 + cpd00005 + cpd03761  -> cpd00006 + cpd03760 
+2 cpd00017 + cpd03760  -> 2 cpd00067 + cpd00011 + 2 cpd00019 + cpd03835 
+2 cpd00067 + cpd00005 + cpd02431  -> cpd00006 + cpd00129 
+cpd00067 + cpd03835  -> cpd03832 
+cpd00007 + cpd00197  -> 2 cpd00067 + cpd00856 
+cpd00010 + cpd00003 + cpd00020  -> cpd00011 + cpd00022 + cpd00004 
+cpd00067 + cpd00020 + cpd00213  -> cpd00011 + cpd00836 
+cpd00010 + cpd00836  <=> cpd00022 + cpd00449 
+cpd00003 + cpd00449  <=> cpd00067 + cpd00004 + cpd00213 
+cpd00007 + cpd00478  -> cpd00025 + cpd00016 
+cpd03607 + cpd00003 + cpd08289  -> cpd00067 + cpd00011 + 2 cpd00001 + cpd00009 + cpd00004 + cpd00478 
+cpd00001 + cpd00478  -> cpd00009 + cpd00263 
+cpd00002 + cpd00001 + cpd15528  -> cpd00067 + cpd00008 + cpd00009 + cpd15528 
+cpd00002 + cpd00001 + cpd15531  -> cpd00067 + cpd00008 + cpd00009 + cpd15531 
+cpd00002 + cpd00001 + cpd15532  -> cpd00067 + cpd00008 + cpd00009 + cpd15532 
+cpd00002 + cpd00001 + cpd15533  -> cpd00067 + cpd00008 + cpd00009 + cpd15533 
+cpd00002 + cpd00001 + cpd15534  -> cpd00067 + cpd00008 + cpd00009 + cpd15534 
+cpd16742  <=> cpd16742 
+cpd00003 + cpd02147  <=> cpd00067 + cpd00004 + cpd03606 
+cpd03671  <=> cpd00288 
+cpd00003 + cpd00169  <=> cpd00067 + cpd00004 + cpd02069 
+cpd00079  <=> cpd00072 
+cpd00002 + cpd00169  <=> cpd00008 + cpd00203 
+cpd00001 + cpd00911  -> cpd00067 + cpd00284 
+cpd00482  <=> cpd00169 
+cpd00002 + cpd00001 + cpd15542  -> cpd00067 + cpd00008 + cpd00009 + cpd15542 
+cpd00002 + cpd00001 + cpd15545  -> cpd00067 + cpd00008 + cpd00009 + cpd15545 
+cpd00002 + cpd00001 + cpd15546  -> cpd00067 + cpd00008 + cpd00009 + cpd15546 
+cpd00002 + cpd00001 + cpd15547  -> cpd00067 + cpd00008 + cpd00009 + cpd15547 
+cpd00002 + cpd00001 + cpd15548  -> cpd00067 + cpd00008 + cpd00009 + cpd15548 
+cpd00001 + cpd15542  -> cpd00009 + cpd15535 
+cpd00001 + cpd15542  -> cpd15535 + cpd00009 
+cpd00001 + cpd15545  -> cpd00009 + cpd15538 
+cpd00001 + cpd15545  -> cpd15538 + cpd00009 
+cpd00001 + cpd15546  -> cpd00009 + cpd15539 
+cpd00001 + cpd15546  -> cpd15539 + cpd00009 
+cpd00001 + cpd15547  -> cpd00009 + cpd15540 
+cpd00001 + cpd15547  -> cpd15540 + cpd00009 
+cpd00001 + cpd15548  -> cpd00009 + cpd15541 
+cpd00001 + cpd15548  -> cpd15541 + cpd00009 
+cpd15417 + cpd00080  -> cpd00067 + cpd00046 + cpd15542 
+cpd15419 + cpd00080  -> cpd00067 + cpd00046 + cpd15545 
+cpd15418 + cpd00080  -> cpd00067 + cpd00046 + cpd15546 
+cpd15421 + cpd00080  -> cpd00067 + cpd00046 + cpd15547 
+cpd15420 + cpd00080  -> cpd00067 + cpd00046 + cpd15548 
+cpd00007 + cpd11640 + cpd00452  -> cpd16740 
+cpd16755 + cpd16752  -> cpd00010 + cpd16744 
+cpd16756 + cpd16752  -> cpd00010 + cpd16745 
+cpd16753 + cpd16752  -> cpd00010 + cpd16746 
+cpd16758 + cpd16752  -> cpd00010 + cpd16747 
+cpd16754 + cpd16752  -> cpd00010 + cpd16748 
+cpd16777 + cpd16752  -> cpd00010 + cpd16749 
+cpd16779 + cpd16752  -> cpd00010 + cpd16750 
+cpd00024 + cpd00066  <=> cpd00023 + cpd00143 
+cpd00007 + cpd00233 + cpd00066  -> cpd00001 + cpd00231 + cpd00069 
+cpd00002 + cpd00066 + cpd11919  -> cpd00018 + cpd00012 + cpd12335 
+cpd00067 + cpd00066  <=> cpd00067 + cpd00066 
+cpd00002 + cpd00001 + cpd00009  -> cpd00067 + cpd00008 + 2 cpd00009 
+cpd00001 + cpd02720  -> cpd00009 + cpd02882 
+cpd00002 + cpd02775  -> cpd00008 + cpd02894 
+cpd00002 + cpd00644  -> cpd00067 + cpd00008 + cpd02201 
+cpd00001 + cpd00012  -> cpd00067 + 2 cpd00009 
+2 cpd00338  -> cpd00067 + 2 cpd00001 + cpd00689 
+cpd00011 + cpd00001 + cpd00061  -> cpd00067 + cpd00009 + cpd00032 
+cpd00067 + cpd02666  -> cpd00011 + cpd00834 
+cpd00001 + cpd00905  -> cpd00012 + cpd00031 
+cpd00002 + cpd00012  <=> cpd00008 + cpd00421 
+cpd00052 + cpd00084 + cpd02201  -> cpd00067 + cpd00009 + cpd00096 + cpd02666 
+cpd00003 + cpd00219  -> cpd00868 + cpd00011 + cpd00004 
+cpd00067 + cpd00219  -> cpd00011 + cpd00001 + cpd00143 
+cpd00002 + cpd00001 + cpd00020  -> 2 cpd00067 + cpd00018 + cpd00009 + cpd00061 
+cpd00002 + cpd00033 + cpd01982  -> cpd00067 + cpd00008 + cpd00009 + cpd02394 
+cpd02642  <=> cpd00956 
+cpd00002 + cpd02826  -> 2 cpd00067 + cpd00008 + cpd00009 + cpd02140 
+cpd00001 + cpd01777  -> cpd02979 
+cpd00002 + cpd00041 + cpd02893  <=> cpd00067 + cpd00008 + cpd00009 + cpd02921 
+cpd00001 + cpd01775  -> cpd00067 + cpd00012 + cpd01777 
+cpd00002 + cpd00001 + cpd00053 + cpd02678  -> cpd00067 + cpd00008 + cpd00009 + cpd00023 + cpd02826 
+cpd02979  -> cpd02991 
+cpd00015 + cpd00129  -> cpd00067 + cpd00982 + cpd02431 
+cpd00002 + cpd00129 + cpd11920  -> cpd00018 + cpd00012 + cpd12164 
+cpd00002 + cpd00001 + cpd00129  -> cpd00067 + cpd00008 + cpd00009 + cpd00129 
+cpd00067 + cpd00129  -> cpd00067 + cpd00129 
+cpd00971 + cpd00129  -> cpd00971 + cpd00129 
+cpd00129  <=> cpd00129 
+cpd00002 + cpd00101  <=> cpd00067 + cpd00018 + cpd00103 
+cpd00061 + cpd02030  <=> cpd00009 + cpd00932 
+cpd00067 + cpd15552  -> cpd00011 + cpd15528 
+cpd00067 + cpd15555  -> cpd00011 + cpd15531 
+cpd00067 + cpd15556  -> cpd00011 + cpd15532 
+cpd00067 + cpd15557  -> cpd00011 + cpd15533 
+cpd00067 + cpd15558  -> cpd00011 + cpd15534 
+cpd00023 + cpd02069  <=> cpd00024 + cpd00738 
+cpd00001 + cpd00738  -> cpd00009 + cpd00054 
+cpd15417 + cpd00054  -> cpd00067 + cpd00046 + cpd15552 
+cpd15419 + cpd00054  -> cpd00067 + cpd00046 + cpd15555 
+cpd15418 + cpd00054  -> cpd00067 + cpd00046 + cpd15556 
+cpd15421 + cpd00054  -> cpd00067 + cpd00046 + cpd15557 
+cpd15420 + cpd00054  -> cpd00067 + cpd00046 + cpd15558 
+cpd00022 + cpd00009  <=> cpd00010 + cpd00196 
+cpd00067 + cpd00002 + cpd00834  <=> cpd00012 + cpd00655 
+cpd00002 + cpd00001 + cpd00118  -> cpd00067 + cpd00008 + cpd00009 + cpd00118 
+cpd00067 + cpd00008 + cpd00061  -> cpd00002 + cpd00020 
+cpd00097 + cpd00248  -> cpd00986 + cpd00699 
+cpd00248  <=> cpd00248 
+cpd03470 + cpd00095  -> 2 cpd00001 + cpd00009 + cpd02333 
+cpd00067 + 0.5 cpd00007 + cpd03420  -> cpd03833 
+cpd00001 + cpd00017 + cpd03839  -> cpd00067 + cpd00029 + cpd00019 + cpd03761 
+2 cpd00002 + cpd00001 + 2 cpd00053 + cpd03832  -> cpd00067 + 2 cpd00008 + cpd00012 + 2 cpd00023 + cpd03913 
+cpd00002 + cpd00847  -> cpd00008 + cpd00103 
+cpd00002 + cpd00220  -> cpd00067 + cpd00008 + cpd00050 
+cpd11225 + cpd02882  -> 2 cpd00001 + cpd00009 + cpd02656 
+2 cpd02656  -> cpd02882 + cpd00220 
+cpd00002 + cpd00105  <=> cpd00067 + cpd00008 + cpd00101 
+cpd00067 + cpd00005 + cpd03119  <=> cpd00006 + cpd16755 
+cpd00067 + cpd00005 + cpd03117  <=> cpd00006 + cpd16756 
+cpd00067 + cpd00005 + cpd12689  <=> cpd00006 + cpd16758 
+cpd00067 + cpd00005 + cpd03123  <=> cpd00006 + cpd16777 
+cpd00067 + cpd00005 + cpd03121  <=> cpd00006 + cpd16779 
+cpd00002 + cpd00001 + cpd00105  -> cpd00067 + cpd00008 + cpd00009 + cpd00105 
+cpd00004 + cpd11681  <=> cpd00067 + cpd00003 + cpd11651 
+cpd00008 + cpd11421  -> cpd00001 + cpd11420 + cpd00177 
+cpd00031 + cpd11421  -> cpd00001 + cpd11420 + cpd00295 
+cpd11421 + cpd00096  -> cpd00001 + cpd11420 + cpd00533 
+cpd11421 + cpd00014  -> cpd00001 + cpd11420 + cpd00978 
+cpd00171  <=> cpd00198 
+cpd00101  <=> cpd00171 
+cpd00001 + cpd02904  -> cpd00009 + cpd03423 
+2 cpd00067 + 2 cpd00001 + cpd02103  -> cpd00011 + 2 cpd00013 + cpd02160 
+cpd00067 + cpd00002 + cpd00048  -> cpd00012 + cpd00193 
+cpd00007 + cpd00001 + cpd00183  -> cpd00025 + cpd00055 + cpd00033 
+cpd00001 + cpd02698  -> cpd00036 + cpd00504 
+cpd00024 + cpd02698  <=> cpd00023 + cpd02724 
+cpd00002 + cpd00001 + cpd03163  -> cpd00012 + cpd00009 + cpd03392 
+cpd00022 + cpd00054  <=> cpd00010 + cpd00722 
+cpd00054  <=> cpd00020 + cpd00013 
+cpd00002 + cpd00054 + cpd11921  -> cpd00018 + cpd00012 + cpd12132 
+cpd00054  -> cpd00020 + cpd00013 
+cpd00067 + cpd00054  <=> cpd00067 + cpd00054 
+cpd00001 + cpd03525  -> cpd00036 + cpd00023 
+cpd00001 + cpd00003 + cpd03526  -> 2 cpd00067 + cpd00004 + cpd03525 
+cpd00003 + cpd01620  -> cpd00067 + cpd00004 + cpd03426 
+cpd00021 + cpd03426  -> 3 cpd00067 + cpd00557 
+cpd00067 + cpd00005 + cpd01716  <=> cpd00006 + cpd00383 
+cpd00002 + cpd00383  -> cpd00067 + cpd00008 + cpd02030 
+cpd00084 + cpd00822  -> cpd00067 + cpd00036 + cpd00424 
+cpd00239 + cpd00822  <=> cpd00067 + cpd00036 + cpd00135 
+cpd00001 + cpd00822  <=> cpd00067 + cpd00036 + cpd00094 + cpd00013 
+2 cpd00971 + cpd00048  <=> cpd00048 + 2 cpd00971 
+cpd00024 + cpd02160  -> cpd00023 + cpd03526 
+cpd00002 + cpd00001 + cpd00264  -> cpd00067 + cpd00008 + cpd00009 + cpd00264 
+cpd00006 + cpd00001 + cpd00199  <=> 2 cpd00067 + cpd00005 + cpd00036 
+2 cpd00067 + cpd00036  -> 2 cpd00067 + cpd00036 
+cpd00036 + cpd00015  <=> cpd00982 + cpd00106 
+cpd00036 + cpd15560  -> cpd00106 + cpd15561 
+cpd00002 + cpd00010 + cpd00036  <=> cpd00008 + cpd00078 + cpd00009 
+5 cpd00067 + 3 cpd00005 + cpd00081  -> 3 cpd00006 + 3 cpd00001 + cpd00239 
+cpd00002 + cpd00001 + cpd00048  -> cpd00067 + cpd00008 + cpd00009 + cpd00048 
+cpd11475  <=> cpd15416 
+cpd00102 + cpd00238  <=> cpd00236 + cpd00072 
+cpd00007 + cpd00024 + cpd00210  -> cpd00067 + cpd00011 + cpd00036 + cpd00081 + cpd04122 
+cpd00002 + cpd00001 + cpd00210  -> cpd00067 + cpd00008 + cpd00009 + cpd00210 
+cpd00210  <=> cpd00210 
+cpd00005 + cpd00003  <=> cpd00006 + cpd00004 
+cpd00001 + cpd00078 + cpd02465  -> cpd00010 + cpd02724 
+cpd03282  <=> cpd00071 + cpd00033 
+cpd00161  <=> cpd00071 + cpd00033 
+cpd00161  -> cpd00094 + cpd00013 
+cpd00001 + cpd00809  -> cpd00009 + cpd00161 
+cpd00002 + cpd00161 + cpd11922  -> cpd00018 + cpd00012 + cpd12229 
+cpd00002 + cpd00001 + cpd00161  -> cpd00067 + cpd00008 + cpd00009 + cpd00161 
+cpd00101 + cpd00198  <=> cpd00102 + cpd00238 
+cpd00236 + cpd00198  <=> cpd00102 + cpd00072 
+cpd00299 + cpd00125  -> cpd00330 + cpd00298 
+cpd00095  <=> cpd00102 
+cpd00067 + cpd00005 + cpd11420  -> cpd00006 + cpd11421 
+cpd00054 + cpd02210  <=> cpd00001 + cpd00102 + cpd00065 
+cpd00054 + cpd00359  -> cpd00001 + cpd00065 
+cpd02210  <=> cpd00102 + cpd00359 
+cpd00067 + cpd00004 + cpd00145  <=> cpd00003 + cpd00223 
+cpd00002 + cpd00001 + cpd00268  -> cpd00067 + cpd00008 + cpd00009 + cpd00268 
+cpd00024 + cpd00069  <=> cpd00868 + cpd00023 
+cpd00002 + cpd00069 + cpd11751  -> cpd00018 + cpd00012 + cpd12194 
+cpd00067 + cpd00069  <=> cpd00067 + cpd00069 
+cpd00069  <=> cpd00069 
+cpd00002 + cpd00516 + cpd00525  -> cpd00067 + cpd00008 + cpd00009 + cpd02964 
+cpd00061 + cpd00037  -> cpd00009 + cpd02820 
+cpd00067 + cpd00062 + cpd02611  -> cpd00012 + cpd00037 
+cpd03494 + cpd00037  -> cpd00067 + cpd00014 + cpd03495 
+cpd00002 + cpd00186 + cpd00890  -> cpd00067 + cpd00008 + cpd00009 + cpd00525 
+cpd00002 + cpd00035 + cpd00773  -> cpd00067 + cpd00008 + cpd00009 + cpd00890 
+cpd00067 + cpd00005 + cpd02820  -> cpd00006 + cpd00773 
+cpd00001 + cpd02229  -> cpd00067 + cpd00009 + cpd00286 
+cpd00002 + cpd00731 + cpd02964  -> cpd00067 + cpd00008 + cpd00009 + cpd02968 
+cpd00067 + cpd00136  <=> cpd00067 + cpd00136 
+cpd00002 + cpd00091  <=> cpd00008 + cpd00014 
+cpd00023 + cpd00869  -> cpd00024 + cpd00060 
+2 cpd00017 + cpd00774  -> cpd00067 + 2 cpd00019 + cpd01620 
+cpd00755  -> cpd00001 + cpd00774 
+4 cpd00067 + cpd00774  -> 4 cpd00011 + cpd02083 
+4 cpd00067 + cpd03414  -> 4 cpd00011 + cpd03416 
+2 cpd00067 + cpd00001 + cpd01720  -> cpd00011 + cpd00013 + cpd00085 
+cpd00103 + cpd00092  -> cpd00012 + cpd00091 + ura[c]
+cpd00001 + cpd00581  -> cpd02311 
+2 cpd00067 + cpd00001 + cpd00073  -> cpd00011 + 2 cpd00013 
+cpd00024 + cpd00156  <=> cpd00023 + cpd00123 
+cpd00002 + cpd00156 + cpd11924  -> cpd00018 + cpd00012 + cpd12133 
+cpd00002 + cpd00001 + cpd00156  -> cpd00067 + cpd00008 + cpd00009 + cpd00156 
+cpd00067 + cpd04073  <=> cpd00067 + cpd04073 
+cpd00001 + cpd00003 + cpd00561  -> 2 cpd00067 + cpd00004 + cpd04073 
+cpd00067 + cpd00561  <=> cpd00067 + cpd00561 
+cpd00067 + cpd00007 + cpd00004 + cpd04073  -> cpd00001 + cpd00197 + cpd00003 + cpd00055 
+cpd00001 + cpd00003 + cpd00309  -> cpd00067 + cpd00004 + cpd00300 
+cpd00001 + cpd01217  -> cpd00105 + cpd00309 
+cpd00002 + cpd00001 + cpd16742  -> cpd00067 + cpd00008 + cpd00009 + cpd16742 
+cpd00197  <=> 
+cpd00331  <=> 
+cpd00051  <=> 
+cpd00153  <=> 
+cpd00681  <=> 
+cpd00137  <=> 
+cpd11579  <=> 
+cpd00021  <=> 
+cpd00082  <=> 
+cpd00027  <=> 
+cpd00023  <=> 
+cpd00033  <=> 
+cpd00100  <=> 
+cpd00119  <=> 
+cpd00260  <=> 
+cpd03048  <=> 
+cpd00039  <=> 
+cpd08023  <=> 
+cpd00971  <=> 
+cpd00430  <=> 
+cpd16742  <=> 
+cpd00129  <=> 
+cpd00248  <=> 
+cpd00048  <=> 
+cpd00210  <=> 
+cpd00069  <=> 
+0.0004 cpd00005 + 0.00013 cpd00006 + 45.7318 cpd00002 + 6e-06 cpd00010 + 45.5608 cpd00001 + 3e-06 cpd00078 + 5e-05 cpd00022 + 0.001 cpd00018 + 0.00215 cpd00003 + 5e-05 cpd00004 + 0.5516398 cpd00023 + 0.235 cpd00038 + 1e-05 cpd00015 + 0.22877 cpd00053 + 0.20955 cpd00041 + 0.035 cpd00118 + 0.459545 cpd00035 + 0.211667 cpd00051 + 0.3827466 cpd00132 + 0.0231 cpd15539 + 0.0105 cpd15541 + 0.0006 cpd15428 + 0.0031 cpd15429 + 0.0002 cpd15430 + 0.0014 cpd15431 + 0.078596 cpd00060 + 0.136 cpd00062 + 0.214 cpd00052 + 0.049176 cpd00084 + 0.232293 cpd00039 + 0.0231 cpd00356 + 0.003 cpd00026 + 0.179229 cpd00054 + 0.417820 cpd00033 + 0.0005 cpd11313 + 0.073656 cpd00119 + 0.252562 cpd00322 + 0.352394 cpd00107 + 0.05 cpd00345 + 0.0148 cpd00357 + 0.0232 cpd00241 + 0.0143 cpd00115 + .1565777 cpd00129 + 0.0086 cpd15531 + 0.0419 cpd15532 + 0.0028 cpd15533 + 0.019 cpd15534 + 0.0046 cpd15538 + 0.0015 cpd15540 + 0.176 cpd00066 + 0.083266 cpd00069 + 0.0005 cpd00557 + 0.188970 cpd00161 + 0.051 cpd00065 + 0.299687 cpd00156 + 0.028 cpd11452  -> 45.5604 cpd00067 + 45.5608 cpd00008 + 0.7302 cpd00012 + 45.5628 cpd00009 
+cpd00002 + cpd00001  -> cpd00067 + cpd00008 + cpd00009 
+cpd16739  <=> cpd02717 
+2 cpd00067 + cpd00007 + cpd00004 + cpd00752  -> cpd00011 + cpd00001 + cpd00003 + cpd00778 
+0.5 cpd00007 + cpd00218  -> cpd00752 
+cpd00001 + cpd00003 + cpd00448  <=> 2 cpd00067 + cpd00004 + cpd00223 
+cpd00067 + cpd00004 + cpd00448  <=> cpd00003 + cpd00100 
+cpd00067 + cpd00039  -> cpd00011 + cpd01155 
+cpd00089  <=> cpd00079 
+cpd00001 + cpd00003 + cpd00229  -> 2 cpd00067 + cpd00004 + cpd00139 
+cpd00067 + cpd00001 + cpd00352  <=> cpd02522 
+cpd02074  <=> 1pipdn2c[c] + cpd00001 
+cpd00067 + cpd02605  -> cpd00011 + cpd00200 
+cpd00540 + cpd00135  -> cpd00060 + cpd00756 
+cpd00858  <=> cpd00067 + cpd00001 + cpd02431 
+cpd00001 + cpd00015 + cpd00756  <=> cpd00982 + cpd00055 + cpd00183 
+cpd00024 + cpd01155  -> cpd00067 + cpd00001 + cpd00023 + cpd03691 
+2 cpd00001 + cpd00003 + cpd03691  -> cpd00067 + cpd00004 + cpd00339 
+cpd00023 + cpd00269  <=> cpd00705 + cpd00024 
+cpd00002 + cpd00010 + cpd00379  -> cpd00008 + cpd00009 + cpd00413 
+cpd00001 + cpd00424  -> cpd00020 + cpd00013 + cpd00135 
+cpd03495  -> cpd00067 + cpd02229 + cpd11452 
+1.5 cpd00007 + cpd00791  -> 3 cpd00001 + cpd01476 
+cpd00010 + cpd00003 + cpd00094  -> cpd00011 + cpd00004 + cpd00086 
+cpd00009 + cpd00249  <=> cpd00092 + cpd00475 
+cpd00002 + cpd00475  -> cpd00067 + cpd00008 + cpd00847 
+3 cpd00006 + 3 cpd00001 + cpd00324  <=> 4 cpd00067 + 3 cpd00005 + cpd08023 
+cpd00001 + cpd02503  -> cpd00067 + cpd00010 + cpd00876 
+cpd00015 + cpd00760  -> cpd00982 + cpd02125 
+cpd00007 + 2 cpd00481  -> 2 cpd00001 + 2 cpd02187 
+cpd00001 + cpd02187  -> cpd02503 
+cpd00001 + cpd02125  -> cpd02691 
+cpd00010 + cpd02124  -> cpd00022 + cpd00086 
+cpd00067 + cpd00005 + cpd11475  -> cpd00006 + cpd11474 
+cpd00067 + cpd00005 + cpd11469  -> cpd00006 + cpd11468 
+cpd00067 + cpd00005 + cpd15569  -> cpd00006 + cpd15415 
+cpd00067 + cpd00005 + cpd11467  -> cpd00006 + cpd11466 
+cpd00067 + cpd00005 + cpd15570  -> cpd00006 + cpd15294 
+cpd00067 + cpd00005 + cpd11477  -> cpd00006 + cpd15277 
+cpd00067 + cpd00005 + cpd15571  -> cpd00006 + cpd15239 
+cpd00067 + cpd00005 + cpd11572  -> cpd00006 + cpd11573 
+cpd00067 + cpd00005 + cpd15568  -> cpd00006 + cpd11825 
+cpd00067 + cpd00005 + cpd11465  -> cpd00006 + cpd11464 
+cpd00067 + cpd00005 + cpd11473  -> cpd00006 + cpd11472 
+cpd00067 + cpd00005 + cpd11552  -> cpd00006 + cpd11470 
+cpd00003 + cpd00458  -> cpd00067 + cpd00004 + cpd01733 
+cpd01608 + 2 cpd00042  <=> cpd00067 + cpd00081 + cpd00084 + cpd00111 
+cpd00011 + cpd00001  <=> cpd00067 + cpd00242 
+cpd00067 + cpd00242  <=> cpd00242 
+cpd00003 + cpd02691  <=> cpd00067 + cpd00004 + cpd02124 
+cpd00017 + cpd11461  <=> cpd00067 + cpd00019 + cpd12223 
+cpd00001 + cpd00337  -> cpd00067 + cpd01720 
+cpd01033  <=> cpd01033 
+cpd01033 <=> cpd01033 
+cpd01033 <=> 
+cpd01033 + cpd00002 + cpd00010 -> cpd00452 + cpd00018 + ppi[c]
+cpd00005 + cpd00007 + cpd00067 + cpd00452 -> cpd00001 + cpd00006 + edhacoa[c]
+cpd21214 -> o2yacoa[c]
+cpd21214 + cpd00001 -> o5dhsa[c]
+cpd16740 + cpd00006 + cpd00001 -> cpd00005 + cpd21184 + 2 h[c]
+cpd02068 + cpd00001 -> 3hadpcoa[c]
+cpd09844 + cpd00003 -> cpd01507 + cpd00004 + h[c]
+cpd00089 + cpd00357 + cpd00067 -> cpd00626 + ppi[c]
+cpd00626 -> cpd00521 + h2o[c]
+cpd00521 -> tdp4dr[c]
+cpd00521 + cpd00005 + cpd00067 -> cpd02036 + nadp[c]
+cpd11478 + cpd00001 -> HAA[c] + cpd11493 + h[c]
+cpd02036 + HAA[c] -> cpd27526 + cpd00297 + h[c]
+cpd27526  <=> cpd27526 
+cpd27526 <=> cpd27526 
+cpd27526 <=> 
+cpd00153 + cpd00005 + cpd00007 + cpd00067 -> cpd00136 + cpd00006 + h2o[c]
+cpd00216 -> ichor[c] 
+ichor[c] + cpd00001 -> cpd00020 + 23ddhb[c]
+cpd00003 + cpd02566 -> cpd00168 + cpd00004 + h[c]
+cpd00053 + cpd00216  -> cpd00023 + 4adcho[c]
+cpd00003 + cpd00005 <=> cpd00006 + nadh[c]
+cpd00209  <=> 
+cpd00209  <=> cpd00209 
+cpd00209  <=> cpd00209 
+2 cpd00067 + cpd00209 + cpd15561 -> 2 cpd00067 + cpd00001 + cpd00075 + q8[c]
+5 cpd00067 + cpd00075 + 3 cpd00005 -> cpd00013 + 3 cpd00006 + h2o[c]
+cpd00155 + cpd00009 -> cpd00382 + cpd00089 
+cpd01916 -> glycogen[c]
+cpd00387 -> cpd00008 + cpd01916 + h[c]
+cpd11949 <=> 
+cpd11949 + cpd00002 + cpd00001 -> cpd11949 + cpd00008 + cpd00009 + h[c]
+cpd11949  ->  algn[c]
+cpd11949 -> cpd02663 + h[c]
+cpd02663 + cpd00005 + cpd00067 -> cpd02441 + nadp[c]
+cpd02441 + cpd00002 -> cpd00008 + cpd00067 + 2ddg6p[c]
+cpd00235 <=> f6p[c]
+cpd00485 <=> man6p[c]
+cpd00485 + cpd00038 + cpd00067 -> cpd00083 + ppi[c]
+cpd00083 -> cpd00900 + h2o[c]
+cpd00083 + 2 cpd00003 + cpd00001 ->  cpd00719 + 2 cpd00004 + 3 h[c]
+cpd00719 <=> cpd01735 +  cpd00031 + 3 h[c]
+cpd01735 <=> algn[c]
+cpd00672  <=> 
+cpd00672  <=> fruct_D[p]
+cpd00672 <=> fruct_D[c]
+cpd00672 + cpd00004 + cpd00067 -> cpd00222 + nad[c]
+cpd00222 -> cpd02441 + h2o[c]
+cpd16876 + cpd00001 -> cpd00136 + cpd00010 + h[c]
+cpd00430 + cpd00003 +  cpd00001 -> 4hpha[c]  + cpd00004  + 2 cpd00067 
+tyr[c] + cpd00007 + cpd00001 -> cpd00430 + cpd00013 + h2o2[c]
+4hpha[c] + cpd00982 + cpd00007 -> 34dhpa[c] + cpd00015 + cpd00067 + h2o[c]
+cpd00164 <=> allgal[c]
+cpd00348 + cpd00001 -> cpd00164 + pi[c]
+cpd00043 -> gal1p[c]
+cpd00144 -> udpgal[c]
+cpd00026 + 2 cpd00003 + cpd00001 -> cpd00144 + 2 cpd00004 + 3 h[c]
+cpd00164 <=> adgal[c]
+cpd00164 + cpd00005 + cpd00067 -> algalt[c]+ nad[c]
+algalt[c]+ cpd00067 -> ga14l[c]+ cpd00001 
+cpd00820 + cpd00007  ->  cpd00059 + cpd00025 + h[c]
+cpd02738  <=> 
+cpd12223  <=> 
+cpd11461  <=> 
+cpd16752  <=> 
+cpd00097  <=> 
+cpd00986  <=> 
+cpd02555  <=> 
+cpd04122  -> 
+cpd16744  -> 
+cpd16745  -> 
+cpd16746  -> 
+cpd16747  -> 
+cpd16748  -> 
+cpd16749  -> 
+cpd16750  -> 
+cpd03091  -> 
+cpd00055  -> 
+cpd16751  -> 
+cpd00371  -> 
+cpd15621  -> 
+cpd16744 + cpd16745 + cpd16749 + cpd16750  <=> cpd16751 
+cpd00211  <=> 
+cpd00480  <=> cpd00480 
+cpd00881  <=> cpd00881 
+cpd00881  <=> cpd00881 
+cpd00630  <=> cpd00269 
+cpd00136  <=> cpd00136 
+cpd00281  <=> cpd00281 
+cpd00029  <=> cpd00029 
+cpd00024  <=> cpd00024 
+cpd00041  <=> cpd00041 
+cpd00077  <=> cpd00077 
+cpd00077  <=> cpd00077 
+cpd00098  <=> cpd00098 
+cpd00011  <=> cpd00011 
+cpd00149  <=> cpd00149 
+cpd00458  <=> cpd00458 
+cpd00458  <=> cpd00458 
+cpd00084  <=> cpd00084 
+cpd01107  <=> cpd01107 
+cpd01741  <=> cpd01741 
+cpd00221  <=> cpd00221 
+cpd00021  <=> cpd00021 
+cpd01059  <=> cpd01059 
+cpd01059  <=> cpd01059 
+cpd00106  <=> cpd00106 
+cpd01020  <=> cpd01020 
+cpd00067 + cpd01020  <=> cpd00067 + cpd01020 
+cpd00222  <=> cpd00222 
+cpd00448  <=> cpd00448 
+cpd00540  <=> cpd00540 
+cpd00139  <=> cpd00139 
+cpd00001  <=> cpd00001 
+cpd00001  <=> cpd00001 
+cpd00214  <=> cpd00214 
+cpd01113  <=> cpd01113 
+cpd00067  <=> cpd00067 
+cpd00322  <=> cpd00322 
+cpd00107  <=> cpd00107 
+cpd00159  <=> cpd00159 
+cpd00130  <=> cpd00130 
+cpd00060  <=> cpd00060 
+cpd00067 + cpd00218  <=> cpd00067 + cpd00218 
+cpd00218  <=> cpd00218 
+cpd00971  <=> cpd00971 
+cpd00013  <=> cpd00013 
+cpd00075  <=> cpd00075 
+cpd00007  <=> cpd00007 
+cpd03846  <=> cpd03846 
+cpd00064  <=> cpd00064 
+cpd00066  <=> cpd00066 
+cpd00067 + cpd00009  <=> cpd00067 + cpd00009 
+cpd00009  <=> cpd00009 
+cpd00971 + cpd00141  -> cpd00141 + cpd00971 
+cpd00141  <=> cpd00141 
+cpd00118  <=> cpd00118 
+cpd00067 + cpd00248  <=> cpd00067 + cpd00248 
+cpd00105  <=> cpd00105 
+cpd00054  <=> cpd00054 
+cpd00048  <=> cpd00048 
+cpd00264  <=> cpd00264 
+cpd00036  <=> cpd00036 
+cpd00604  <=> cpd00604 
+cpd00604  <=> cpd00604 
+cpd00161  <=> cpd00161 
+cpd01034  <=> cpd01034 
+cpd01034  <=> cpd01034 
+cpd00268  <=> cpd00268 
+cpd03847  <=> cpd03847 
+cpd00156  <=> cpd00156 
+cpd00011  <=> cpd00011 
+cpd00007  <=> cpd00007 
+cpd03982  <=> cpd03982 
+cpd03982  <=> cpd03982 
+cpd01007  <=> cpd01007 
+cpd01007  <=> cpd01007 
+cpd04136  <=> cpd04136 
+cpd04136  <=> cpd04136 
+cpd03985  <=> cpd03985 
+cpd03985  <=> cpd03985 
+cpd00561  <=> cpd00561 
+cpd04073  <=> cpd04073 
+cpd11640  <=> cpd11640 
+cpd11640  <=> cpd11640 
+cpd00480  <=> 
+cpd00881  <=> 
+cpd00630  <=> 
+cpd00281  <=> 
+cpd00136  <=> 
+cpd00604  <=> 
+cpd00029  <=> 
+cpd00024  <=> 
+cpd00041  <=> 
+cpd00077  <=> 
+cpd00098  <=> 
+cpd00011  <=> 
+cpd00149  <=> 
+cpd00458  <=> 
+cpd00084  <=> 
+cpd01107  <=> 
+cpd01741  <=> 
+cpd01059  <=> 
+cpd00106  <=> 
+cpd01020  <=> 
+cpd00222  <=> 
+cpd00448  <=> 
+cpd00540  <=> 
+cpd00139  <=> 
+cpd00001  <=> 
+cpd00067  <=> 
+cpd00214  <=> 
+cpd01113  <=> 
+cpd00322  <=> 
+cpd00221  <=> 
+cpd00159  <=> 
+cpd00107  <=> 
+cpd00130  <=> 
+cpd00060  <=> 
+cpd00218  <=> 
+cpd00013  <=> 
+cpd00075  <=> 
+cpd00007  <=> 
+cpd03846  <=> 
+cpd00064  <=> 
+cpd00066  <=> 
+cpd00009  <=> 
+cpd00141  <=> 
+cpd00118  <=> 
+cpd00105  <=> 
+cpd00054  <=> 
+cpd00264  <=> 
+cpd00036  <=> 
+cpd00161  <=> 
+cpd01034  <=> 
+cpd00268  <=> 
+cpd03847  <=> 
+cpd00156  <=> 
+cpd00561  <=> 
+cpd04073  <=> 
+cpd04136  <=> 
+cpd03982  <=> 
+cpd03985  <=> 
+cpd01007  <=> 
+cpd11640  <=> 
+cpd00653 -> cpd00894 + h2o[c]
+cpd00894 + cpd00002 -> cpd00945 + cpd00008 + h[c]
+cpd00945 -> cpd00102 + pyr[c]
+cpd00001 + cpd02143 -> cpd00067 + galt[c]
+cpd00002 + cpd00016  -> cpd00067 + cpd00215 + adp[c]
+cpd00216 -> cpd00020 + sa[c]
+cpd0907 + cpd00001 -> cpd00067 + sa[c] + meOH[c]
