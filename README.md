@@ -1,6 +1,8 @@
 ########################################################################
+
 Codigos utilizados en la unidad de investigacion I - Bioinformatica Unab
 Nestor Palominos 2017-2018
+
 ########################################################################
 
 Se presentan los codigos de filtrado para archivos de expresiones de Pseudomonas Syringae Tomato DC300
